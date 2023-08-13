@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T02:50:06.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rJVfU2Mn9p6PB_A0mAAw" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-13T03:17:35.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="r_A5tOT5RDAwN329yJ0c" version="21.6.8" type="github" pages="4">
   <diagram name="Page-1" id="BIDcPtlyd_D1RMNUa6YJ">
     <mxGraphModel dx="2390" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w5K1J5Ff8Z8EvCgF7i7d" name="Page-2">
-    <mxGraphModel dx="2732" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3008" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -953,6 +953,111 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="280" y="500" as="sourcePoint" />
             <mxPoint x="380" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LkOOoLKxy-lHVWKbjPG9" name="Page-4">
+    <mxGraphModel dx="1563" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tvOVuLFbm-WqkZmI7mFE-2" value="Recruitment Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tvOVuLFbm-WqkZmI7mFE-3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="363" y="100" width="20" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="o0RnMXznl0-8HhVA9z7u-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tvOVuLFbm-WqkZmI7mFE-3">
+          <mxGeometry x="5" y="190" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="o0RnMXznl0-8HhVA9z7u-2" value="&lt;b&gt;3. Schedule interview&lt;/b&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="o0RnMXznl0-8HhVA9z7u-1" parent="tvOVuLFbm-WqkZmI7mFE-3">
+          <mxGeometry x="-0.8123" y="10" relative="1" as="geometry">
+            <mxPoint x="10" y="170" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="136" y="170" />
+              <mxPoint x="136" y="200" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hL8PQzTg_s5KNMeXlTcd-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tvOVuLFbm-WqkZmI7mFE-3">
+          <mxGeometry x="10" y="240" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tvOVuLFbm-WqkZmI7mFE-4" value="HR Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tvOVuLFbm-WqkZmI7mFE-5" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="641" y="100" width="20" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="tvOVuLFbm-WqkZmI7mFE-6" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cuwfs3vc1FcA5BSQzF2F-1" value="&lt;b&gt;2. Selected Candidates for interview&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1059" y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="100.5" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hL8PQzTg_s5KNMeXlTcd-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="378" y="420" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hL8PQzTg_s5KNMeXlTcd-4" value="&lt;b&gt;5. Update interview Result&lt;/b&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="hL8PQzTg_s5KNMeXlTcd-3" parent="1">
+          <mxGeometry x="-0.7063" y="10" relative="1" as="geometry">
+            <mxPoint x="383" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="459" y="400" />
+              <mxPoint x="459" y="430" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfc0A-AOxlPhi1nTW7sG-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="89" y="100" width="20" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qfc0A-AOxlPhi1nTW7sG-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qfc0A-AOxlPhi1nTW7sG-1">
+          <mxGeometry x="5" y="110" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfc0A-AOxlPhi1nTW7sG-3" value="&lt;b&gt;1. Review candidat application&lt;/b&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="qfc0A-AOxlPhi1nTW7sG-2" parent="qfc0A-AOxlPhi1nTW7sG-1">
+          <mxGeometry x="-0.6027" y="10" relative="1" as="geometry">
+            <mxPoint x="10" y="90" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="111" y="90" />
+              <mxPoint x="111" y="120" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ie28tIK8kvIX0xYZVku-1" value="Recruitment Staff" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="138" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ie28tIK8kvIX0xYZVku-2" value="HR Manager" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="328" y="138" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ie28tIK8kvIX0xYZVku-3" value="Administrator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="606" y="138" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hL8PQzTg_s5KNMeXlTcd-2" value="&lt;b&gt;4. Conduct Interview&lt;/b&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.7006" y="10" relative="1" as="geometry">
+            <mxPoint x="378" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="469" y="330" />
+              <mxPoint x="469" y="360" />
+            </Array>
+            <mxPoint x="383" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFdHEv-z4VrDLg0bW0n8-1" value="&lt;b&gt;6. Finalize hiring&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="hL8PQzTg_s5KNMeXlTcd-3" target="tvOVuLFbm-WqkZmI7mFE-5">
+          <mxGeometry x="-0.0002" width="80" relative="1" as="geometry">
+            <mxPoint x="430" y="470" as="sourcePoint" />
+            <mxPoint x="510" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="470" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
